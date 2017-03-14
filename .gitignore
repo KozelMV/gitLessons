@@ -1,0 +1,8 @@
+# folder logs
+invisibleFolder/
+
+# file
+invisibleFile
+
+# txt-files
+docs/*.txt
